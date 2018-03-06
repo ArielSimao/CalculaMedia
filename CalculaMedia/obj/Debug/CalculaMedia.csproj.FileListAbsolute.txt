@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe.config
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia_MarkupCompile.cache
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia_MarkupCompile.lref
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.exe
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\bin\Debug\CalculaMedia.pdb
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.g.resources
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.Properties.Resources.resources
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.exe
+C:\Users\aluno\Desktop\Ariel\CalculaMedia\CalculaMedia\obj\Debug\CalculaMedia.pdb
